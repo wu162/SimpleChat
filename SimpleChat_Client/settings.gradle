@@ -1,0 +1,3 @@
+include ':clientSrc'
+include ':app'
+rootProject.name = "SimpleChat_Client"
